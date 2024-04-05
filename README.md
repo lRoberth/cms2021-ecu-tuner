@@ -10,9 +10,9 @@ Currently this is only compatible with Stage 3 ECUs
 - Open a command prompt or terminal
 - Execute the next commands:
    ```
-  cd path/to/ecu-tuner.py
-  py ecu-tuner.py
-   Note: If tunning a carburetor, do the same but for carburetor-tuner.py
+  cd path/to/ecu_tuner.py
+  py ecu_tuner.py
+   Note: If tunning a carburetor, do the same but for carburetor_tuner.py
   ```
 - Now, enter your current values you can see in your game
 - Enjoy!
