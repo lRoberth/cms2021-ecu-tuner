@@ -1,7 +1,7 @@
 # CSM2021 ECU Tuner
 
 ## What is this
-This is a python script, that helps you to tune your ECU in Car Mechanic Simulator 2021. It finds the shorter and more efficient steps to get a perfect [+6, +6, +6, +6, +6] on all graphs and gain perfect score.
+This is a python script, that helps you to tune your Stage 3 ECU in Car Mechanic Simulator 2021. It finds the shorter and more efficient steps to get a perfect [+6, +6, +6, +6, +6] on all graphs and gain perfect score.
 Currently this is only compatible with ECUs and not carburetors.
 
 ## How to use it 
